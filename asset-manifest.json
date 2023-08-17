@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/reactrobots/static/css/main.db508e0e.css",
-    "main.js": "/reactrobots/static/js/main.851887c8.js",
+    "main.js": "/reactrobots/static/js/main.6324e3dc.js",
     "static/media/SEGA.woff": "/reactrobots/static/media/SEGA.47b4bfa94ef243af4a5b.woff",
     "index.html": "/reactrobots/index.html",
     "main.db508e0e.css.map": "/reactrobots/static/css/main.db508e0e.css.map",
-    "main.851887c8.js.map": "/reactrobots/static/js/main.851887c8.js.map"
+    "main.6324e3dc.js.map": "/reactrobots/static/js/main.6324e3dc.js.map"
   },
   "entrypoints": [
     "static/css/main.db508e0e.css",
-    "static/js/main.851887c8.js"
+    "static/js/main.6324e3dc.js"
   ]
 }
